@@ -9,13 +9,13 @@ Imports System.Runtime.InteropServices
 ' Vérifiez les valeurs des attributs de l'assembly
 
 <Assembly: AssemblyTitle("MET - Multy Encryption Tool")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("MET - Multy Encryption Tool")>
-<Assembly: AssemblyCopyright("Copyright ©  2017")>
+<Assembly: AssemblyDescription("Multy Encryption Tool")>
+<Assembly: AssemblyCompany("Kevin VALERIO")>
+<Assembly: AssemblyProduct("MET")>
+<Assembly: AssemblyCopyright("Copyright Kevin VALERIO©  2017")>
 <Assembly: AssemblyTrademark("")>
 
-<Assembly: ComVisible(False)>
+<Assembly: ComVisible(True)>
 
 'Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
 <Assembly: Guid("a88cee6f-ec8c-4f3f-b10b-f1f4ed2658f3")>
@@ -31,5 +31,5 @@ Imports System.Runtime.InteropServices
 ' en utilisant '*', comme indiqué ci-dessous :
 ' <Assembly: AssemblyVersion("1.0.*")>
 
-<Assembly: AssemblyVersion("1.0.0.0")>
-<Assembly: AssemblyFileVersion("1.0.0.0")>
+<Assembly: AssemblyVersion("0.1.0.0")>
+<Assembly: AssemblyFileVersion("0.1.0.0")>
